@@ -37,6 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    #fanganyi
+    'book'
+    #fangan2
+    # 'book.apps.BookConfig'
+    
 ]
 
 MIDDLEWARE = [
